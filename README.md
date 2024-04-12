@@ -3,7 +3,7 @@ _____________________________________
 
 ● Sou um jovem estudando para seguir na carreira de pentester. Produzo conteúdo pro TikTok e sou responsável por um grupo de estudos chamado HackerMind!
 
-    ● Skills
+ ###Skills
 - Python 🐍
 - C#/++ 📚
 - HTML+CSS 📚
